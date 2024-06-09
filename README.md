@@ -15,7 +15,7 @@ To get the project up and running on your local machine, follow these steps:
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/1varhitha/BlogVerse.git
+    git clone https://github.com/1varshitha/BlogVerse.git
     ```
 2. **Navigate to the project directory**:
     ```sh
